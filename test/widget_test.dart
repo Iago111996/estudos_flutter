@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:page_nubanc/app_Widget.dart';
+import 'package:page_nubanc/screens/app_Widget.dart';
 
 
 
