@@ -36,7 +36,7 @@ class _LoginScrrenState extends State<LoginScrren> {
           ),
           child:Image.asset(
             "assets/imagens/kkgg.png",
-            height: 100,
+            height: 125,
           ),
           ),
           Text("Entrar", 
